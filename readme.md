@@ -1,0 +1,1 @@
+When this code is executed in the React.dev console, the 'Reference' and 'Community' sections will switch positions, with the Community content appearing in the Reference section's original location.
